@@ -3,3 +3,13 @@
 
 # Working directory
 build/
+# Build files
+target
+.idea/
+.patchwork/
+patchwork.cfg
+.cargo/
+Cargo.lock
+.DS_Store
+addons/patchwork
+addons/godot-git-plugin
